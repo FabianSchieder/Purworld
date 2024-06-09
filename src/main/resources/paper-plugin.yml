@@ -1,0 +1,4 @@
+name: Purworld
+version: '${project.version}'
+main: org.plugin.purpur.Purworld
+api-version: '1.20'
